@@ -9,8 +9,8 @@
 <br>
  
   <p align="center">  
-  <a href="https://telegra.ph/file/1743544c222ffd613c219.jpg">
-    <img alt="prabath-md" height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
+  <a href="[https://telegra.ph/file/4a6805c74b481244aec6b.jpg](https://telegra.ph/file/4a6805c74b481244aec6b.jpg)">
+    <img alt="Zaman Janjua" height="300" src="https://telegra.ph/file/4a6805c74b481244aec6b.jpg">
     
   
   </a>
